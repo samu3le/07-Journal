@@ -2,7 +2,7 @@
 
 ## Project deployed
 
-https://samuele-vue-journal-app.netlify.app/
+https://samuele-journal-vue-site.netlify.app
 
 ## Project setup
 ```
