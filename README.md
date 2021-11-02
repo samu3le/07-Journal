@@ -1,4 +1,8 @@
-# journal
+# journal - Options API y Vuex
+
+## Project deployed
+
+https://samuele-vue-journal-app.netlify.app/
 
 ## Project setup
 ```
